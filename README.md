@@ -4,4 +4,6 @@ compJSON is a semantic JSON compare tool which takes an input from users and sem
 
 ## Project Overview
 
-<!-- ![CompJSON demo](https://haptichash.github.io/TKDesigns/design/extras/login-preview.png) -->
+![CompJSON demo](https://haptichash.github.io/compJSON/assets/CompJSON1.png)
+
+![CompJSON demo](https://haptichash.github.io/compJSON/assets/CompJSON2.png)
